@@ -1,0 +1,7 @@
+/Users/noahhendlish/Desktop/Fall 2018/CMPS/Intro to Computer Graphics/project/game project/build/CMakeFiles/asteroids.dir
+/Users/noahhendlish/Desktop/Fall 2018/CMPS/Intro to Computer Graphics/project/game project/build/CMakeFiles/glad.dir
+/Users/noahhendlish/Desktop/Fall 2018/CMPS/Intro to Computer Graphics/project/game project/build/CMakeFiles/ALL_BUILD.dir
+/Users/noahhendlish/Desktop/Fall 2018/CMPS/Intro to Computer Graphics/project/game project/build/CMakeFiles/ZERO_CHECK.dir
+/Users/noahhendlish/Desktop/Fall 2018/CMPS/Intro to Computer Graphics/project/game project/build/glfw-3.2/CMakeFiles/ALL_BUILD.dir
+/Users/noahhendlish/Desktop/Fall 2018/CMPS/Intro to Computer Graphics/project/game project/build/glfw-3.2/CMakeFiles/ZERO_CHECK.dir
+/Users/noahhendlish/Desktop/Fall 2018/CMPS/Intro to Computer Graphics/project/game project/build/glfw-3.2/src/CMakeFiles/glfw.dir
